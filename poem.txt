@@ -6,10 +6,4 @@ blue
 purple
 brown 
 pink 
-unicorn 
-black 
-white 
-grey 
-magenta
-indigo 
-violet
+
