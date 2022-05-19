@@ -10,3 +10,6 @@ unicorn
 black 
 white 
 grey 
+magenta
+indigo 
+violet
