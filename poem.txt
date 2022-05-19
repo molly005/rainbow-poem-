@@ -6,6 +6,4 @@ blue
 purple
 brown 
 pink 
-magenta
-indigo 
-violet
+
